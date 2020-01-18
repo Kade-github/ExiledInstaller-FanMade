@@ -1,4 +1,4 @@
-# ExiledInstaller-FanMade
+# ExiledInstaller-FanMade (Doesn't work, because I stopped working on it :/)
 A pretty simple installer for [Exiled](https://github.com/galaxy119/SamplePlugin), a SMOD Like Development Framework for the game [SCP-SL](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/). This just builds on top of the previous installer, and that's it.
 
 # How do you use it?
